@@ -1,5 +1,5 @@
 # C++ Dictionary (Assignment 1)
-This was submitted as the first assignment for a university unit: Object-oriented C++. This sets up everything for assignment 2. This project was redone in rust, which is another one of my public repos
+This was submitted as the first assignment for a university unit: Object-oriented C++. This assignment scored a perfect mark, 30/30. This sets up everything for assignment 2. This project was redone in rust, which is another one of my public repos
 
 ## The brief for this assignment was:
 
